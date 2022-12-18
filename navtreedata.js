@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md98", null ],
-      [ "Features", "index.html#autotoc_md99", null ],
-      [ "Documentation", "index.html#autotoc_md100", null ],
-      [ "Contributions", "index.html#autotoc_md101", null ]
+      [ "Overview", "index.html#autotoc_md101", null ],
+      [ "Features", "index.html#autotoc_md102", null ],
+      [ "Documentation", "index.html#autotoc_md103", null ],
+      [ "Contributions", "index.html#autotoc_md104", null ]
     ] ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md5", null ],
@@ -83,12 +83,12 @@ var NAVTREE =
       [ "Graphics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md52", null ],
       [ "Greedy Algorithms", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md53", null ],
       [ "Hashing", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md54", null ],
-      [ "Linear Algebra", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ],
-      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56", null ],
-      [ "Math", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md57", null ],
-      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md58", null ],
-      [ "Operations On Datastructures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md59", null ],
-      [ "Others", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md60", null ],
+      [ "Machine Learning", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md55", null ],
+      [ "Math", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md56", null ],
+      [ "Numerical Methods", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md57", null ],
+      [ "Operations On Datastructures", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md58", null ],
+      [ "Others", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md59", null ],
+      [ "Physics", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md60", null ],
       [ "Probability", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md61", null ],
       [ "Range Queries", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md62", null ],
       [ "Search", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md63", null ],
@@ -137,21 +137,19 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"cpp/iterator/distance.html",
-"cpp/thread/lock.html",
-"d1/d83/classuint256__t.html#a9e1b39a46ea16bc6587e25e294c6c363",
-"d2/d8a/classrange__queries_1_1heavy__light__decomposition_1_1_h_l_d.html#a6e486767434e44076c1ac374a22da726",
-"d4/d32/inorder__successor__of__bst_8cpp.html#a72483e3f6933e004a8d86371e8a990db",
-"d5/d58/class_test_cases.html#aa3aa3d5bf666f327ee8e2d11d397b06e",
-"d6/d42/data__structures_2sparse__table_8cpp.html#a10f3ffb3f6f7e1b83d556b9c8de89a5d",
-"d7/d81/namespacebit__manipulation.html",
-"d8/d9c/union__of__two__arrays_8cpp.html#abdd77344d4af8fd56d14a5cabbf2f669",
+"cpp/iterator/inserter.html",
+"cpp/utility/forward.html",
+"d1/d83/classuint256__t.html#aff4d49cf84de64301b169ad974f00bad",
+"d3/d6d/namespacesimpson__method.html",
+"d4/dd2/namespacequadratic__probing.html#aeb6bca8db4768226f8ea8291ea4f83f6",
+"d6/d26/classciphers_1_1_hill_cipher.html#ab02c7563889bf1e363deb8e21967b706",
+"d7/d77/class_edge.html#a415a5d002fe11c58711e48aabe975980",
+"d8/dab/classstatistics_1_1stats__computer2.html#a8290966ad468f2a8c266d008bc60720e",
 "da/d02/classmachine__learning_1_1aystar__search_1_1_ay_star_search.html",
-"db/d27/n__bonacci_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
-"dc/d82/area_8cpp.html#ac5803413618fcfb922cb32c6db0fc864",
-"dd/d9c/classmachine__learning_1_1aystar__search_1_1_eight_puzzle.html#ab7fd890a7ccf756e4b3313087b76a8c2",
-"df/d34/classprobability_1_1windowed__median_1_1_windowed_median.html#a6b52b7851750f28d53508e63c52a69f7",
-""
+"db/d82/classlarge__number.html#a7ba872b9a3ce1f3da6c06c5409663cca",
+"dc/dfe/ternary__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"de/d7b/merge__insertion__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
+"functions_func_k.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
