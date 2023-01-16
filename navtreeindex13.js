@@ -1,8 +1,5 @@
 var NAVTREEINDEX13 =
 {
-"functions_func_k.html":[10,3,1,10],
-"functions_func_l.html":[10,3,1,11],
-"functions_func_m.html":[10,3,1,12],
 "functions_func_n.html":[10,3,1,13],
 "functions_func_o.html":[10,3,1,14],
 "functions_func_p.html":[10,3,1,15],
@@ -89,10 +86,10 @@ var NAVTREEINDEX13 =
 "hierarchy.html":[10,2],
 "index.html":[],
 "index.html":[0],
-"index.html#autotoc_md101":[0,0],
-"index.html#autotoc_md102":[0,1],
-"index.html#autotoc_md103":[0,2],
-"index.html#autotoc_md104":[0,3],
+"index.html#autotoc_md102":[0,0],
+"index.html#autotoc_md103":[0,1],
+"index.html#autotoc_md104":[0,2],
+"index.html#autotoc_md105":[0,3],
 "modules.html":[8],
 "namespacemembers.html":[9,1,0],
 "namespacemembers_func.html":[9,1,1],
