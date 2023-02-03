@@ -25,12 +25,7 @@
 var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
-    [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md102", null ],
-      [ "Features", "index.html#autotoc_md103", null ],
-      [ "Documentation", "index.html#autotoc_md104", null ],
-      [ "Contributions", "index.html#autotoc_md105", null ]
-    ] ],
+    [ "The Algorithms - C++", "index.html", "index" ],
     [ "Contributor Covenant Code of Conduct", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md5", null ],
       [ "Our Standards", "d4/d4c/md__c_o_d_e__o_f__c_o_n_d_u_c_t.html#autotoc_md6", null ],
@@ -139,19 +134,19 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"cpp/iterator/inserter.html",
-"cpp/utility/forward.html",
-"d1/d83/classuint256__t.html#aff4d49cf84de64301b169ad974f00bad",
-"d3/d7d/brute__force__string__searching_8cpp.html#aeb2cd81064717aedd62bfb096b1a73d8",
-"d4/dde/classgeometry_1_1jarvis_1_1_convexhull.html#aeec46e86786ddd461464b07a77c4d5f1",
-"d6/d26/classciphers_1_1_hill_cipher.html#ad667fa0860977f6d6d443fa1dbcd80aa",
-"d7/d7c/classstatistics_1_1stats__computer1.html",
-"d8/dab/classstatistics_1_1stats__computer2.html#acf2e84df4fc386bb3295016ef8fd156e",
-"da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html",
-"db/d82/classlarge__number.html#ab84f29685709cbb3b6fd29b7b4a7bc7b",
-"dd/d0c/hamiltons__cycle_8cpp.html#a45d94ead4cf4e1ff9f87c38bc99f59ae",
-"de/d85/decimal__to__roman__numeral_8cpp.html#a003fb4e1b08279fe4cd50fbbc2782c2d",
-"functions_func_n.html"
+"cpp/iterator/distance.html",
+"cpp/thread/lock.html",
+"d1/d83/classuint256__t.html#ad4928175eaaaa2b559bc945affe63ad2",
+"d3/d4c/quick__sort__3_8cpp.html#a6eb67c2f91c98cf4464f75b5882022de",
+"d4/d9f/selection__sort__recursive_8cpp.html#ab6f7b33a070e376e1f4374e534435e89",
+"d6/d1a/dnf__sort_8cpp.html",
+"d7/d56/count__bits__flip_8cpp.html",
+"d8/d95/vector__ops_8hpp.html#ad0bdc88e5f1be47c46c0f0c8ebf754bb",
+"d9/dde/classbinary__search__tree.html#aa67321ed575ca313cd71d833d91234a6",
+"db/d3c/tower__of__hanoi_8cpp.html#af4cfc41e546f1f8d25f01e0804e8b61d",
+"dc/d82/area_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t.html#abce10afbf9e16ce4a788af6b58abbebb",
+"df/dce/namespacegraph.html#a83ab16e96cec644109a58dfc9329bc2b"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
