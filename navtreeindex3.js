@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"d1/d83/classuint256__t.html#acefecc3b1a4044f2be5ab46eea0099bf":[10,0,55,72],
 "d1/d83/classuint256__t.html#ad4928175eaaaa2b559bc945affe63ad2":[10,0,55,19],
 "d1/d83/classuint256__t.html#ad5bd38b2d3becca998457af1124d6e8b":[10,0,55,14],
 "d1/d83/classuint256__t.html#ad74d33215517459c2b33ace7a9c6bc13":[10,0,55,62],
@@ -37,7 +38,7 @@ var NAVTREEINDEX3 =
 "d1/daa/random__pivot__quick__sort_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[11,0,21,18,7],
 "d1/daa/random__pivot__quick__sort_8cpp.html#aac5657b4fe2251cd21073f44233f6ea5":[11,0,21,18,2],
 "d1/daa/random__pivot__quick__sort_8cpp.html#ac3281dc34a9cfd7beb332419b8a0aa10":[11,0,21,18,6],
-"d1/db3/structcompare.html":[10,0,20],
+"d1/db3/structcompare.html":[10,0,21],
 "d1/db6/namespaceknight__tour.html":[9,0,53],
 "d1/dbb/n__choose__r_8cpp.html":[11,0,13,40],
 "d1/dbb/n__choose__r_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[11,0,13,40,0],
@@ -207,8 +208,8 @@ var NAVTREEINDEX3 =
 "d2/de9/heavy__light__decomposition_8cpp.html#a458410412185a5f09199deaff7157a8d":[11,0,19,1,5],
 "d2/de9/heavy__light__decomposition_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,19,1,3],
 "d2/de9/heavy__light__decomposition_8cpp.html#af31ec5409537703d9c8a47350386b32a":[11,0,19,1,6],
-"d2/dfc/structstd_1_1is__arithmetic_3_01uint128__t_01_4.html":[9,0,110,5],
 "d2/dfc/structstd_1_1is__arithmetic_3_01uint128__t_01_4.html":[10,0,16,0],
+"d2/dfc/structstd_1_1is__arithmetic_3_01uint128__t_01_4.html":[9,0,110,5],
 "d3/d05/sudoku__solver_8cpp.html":[11,0,0,9],
 "d3/d05/sudoku__solver_8cpp.html#a07dc6acffd0500de9bdbf16b3ade94b0":[11,0,0,9,0],
 "d3/d05/sudoku__solver_8cpp.html#ab040a12d7684cd85fb3684f4211ea5ac":[11,0,0,9,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX3 =
 "d3/d40/graph__coloring_8cpp.html":[11,0,0,0],
 "d3/d40/graph__coloring_8cpp.html#a40337efc5dad761096489bf2c5b1c80c":[11,0,0,0,0],
 "d3/d40/graph__coloring_8cpp.html#a8c47fa37fb6eeeb781b2ec1b05af6b07":[11,0,0,0,3],
-"d3/d40/graph__coloring_8cpp.html#a976efe049deb042bf1f02612e181ab1d":[11,0,0,0,1],
-"d3/d40/graph__coloring_8cpp.html#gae66f6b31b5ad750f1fe042a706a4e3d4":[11,0,0,0,2]
+"d3/d40/graph__coloring_8cpp.html#a976efe049deb042bf1f02612e181ab1d":[11,0,0,0,1]
 };
