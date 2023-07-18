@@ -67,6 +67,11 @@ var annotated_dup =
       [ "LowestCommonAncestor", "d9/d23/classgraph_1_1_lowest_common_ancestor.html", "d9/d23/classgraph_1_1_lowest_common_ancestor" ],
       [ "RootedTree", "d0/d58/classgraph_1_1_rooted_tree.html", "d0/d58/classgraph_1_1_rooted_tree" ]
     ] ],
+    [ "hashing", "d6/d0c/namespacehashing.html", [
+      [ "sha256", null, [
+        [ "Hash", "d6/d84/classhashing_1_1sha256_1_1_hash.html", "d6/d84/classhashing_1_1sha256_1_1_hash" ]
+      ] ]
+    ] ],
     [ "linear_probing", "d8/d89/namespacelinear__probing.html", [
       [ "Entry", "db/d19/structlinear__probing_1_1_entry.html", "db/d19/structlinear__probing_1_1_entry" ]
     ] ],
@@ -160,6 +165,11 @@ var annotated_dup =
       [ "is_unsigned< uint128_t >", "d5/d25/structstd_1_1is__unsigned_3_01uint128__t_01_4.html", null ],
       [ "is_unsigned< uint256_t >", "df/d99/structstd_1_1is__unsigned_3_01uint256__t_01_4.html", null ]
     ] ],
+    [ "strings", "df/dcb/namespacestrings.html", [
+      [ "boyer_moore", null, [
+        [ "pattern", "dd/d5a/structstrings_1_1boyer__moore_1_1pattern.html", "dd/d5a/structstrings_1_1boyer__moore_1_1pattern" ]
+      ] ]
+    ] ],
     [ "binary_search_tree", "d9/dde/classbinary__search__tree.html", "d9/dde/classbinary__search__tree" ],
     [ "Btree", "d9/d90/struct_btree.html", null ],
     [ "cll", "d5/d15/classcll.html", null ],
@@ -183,8 +193,8 @@ var annotated_dup =
     [ "MinHeap", "d2/d05/class_min_heap.html", "d2/d05/class_min_heap" ],
     [ "MinHeapNode", "d5/d29/struct_min_heap_node.html", null ],
     [ "mst", "d1/d77/structmst.html", null ],
-    [ "Node", "db/d8b/struct_node.html", null ],
     [ "node", "d5/da1/structnode.html", null ],
+    [ "Node", "db/d8b/struct_node.html", null ],
     [ "Point", "d8/dc8/struct_point.html", "d8/dc8/struct_point" ],
     [ "query", "dd/d1b/structquery.html", null ],
     [ "Queue", "dc/db5/struct_queue.html", null ],
@@ -194,6 +204,7 @@ var annotated_dup =
     [ "Solution", "dd/d4f/class_solution.html", null ],
     [ "stack", "d1/dc2/classstack.html", "d1/dc2/classstack" ],
     [ "stack_linkedList", "d2/dc4/classstack__linked_list.html", null ],
+    [ "TestCase", "da/d86/struct_test_case.html", null ],
     [ "TestCases", "d5/d58/class_test_cases.html", "d5/d58/class_test_cases" ],
     [ "tower", "d2/d2c/structtower.html", "d2/d2c/structtower" ],
     [ "Trie", "dd/d2f/class_trie.html", "dd/d2f/class_trie" ],
