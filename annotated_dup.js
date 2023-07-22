@@ -27,6 +27,9 @@ var annotated_dup =
       [ "stack_using_queue", null, [
         [ "Stack", "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html", "db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack" ]
       ] ],
+      [ "treap", null, [
+        [ "Treap", "d5/d95/structdata__structures_1_1treap_1_1_treap.html", "d5/d95/structdata__structures_1_1treap_1_1_treap" ]
+      ] ],
       [ "tree_234", null, [
         [ "Node", "dd/d40/classdata__structures_1_1tree__234_1_1_node.html", "dd/d40/classdata__structures_1_1tree__234_1_1_node" ],
         [ "Tree234", "d3/d95/classdata__structures_1_1tree__234_1_1_tree234.html", "d3/d95/classdata__structures_1_1tree__234_1_1_tree234" ]
@@ -94,8 +97,7 @@ var annotated_dup =
     [ "math", "dd/d47/namespacemath.html", [
       [ "ncr_modulo_p", null, [
         [ "NCRModuloP", "d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p.html", "d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p" ]
-      ] ],
-      [ "Point", "de/d4f/structmath_1_1_point.html", null ]
+      ] ]
     ] ],
     [ "operations_on_datastructures", "da/d6d/namespaceoperations__on__datastructures.html", [
       [ "circular_linked_list", null, [
@@ -146,6 +148,7 @@ var annotated_dup =
         [ "SG", "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html", "d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g" ],
         [ "Tree", "d1/d51/classrange__queries_1_1heavy__light__decomposition_1_1_tree.html", "d1/d51/classrange__queries_1_1heavy__light__decomposition_1_1_tree" ]
       ] ],
+      [ "fenwick_tree", "de/d0d/classrange__queries_1_1fenwick__tree.html", "de/d0d/classrange__queries_1_1fenwick__tree" ],
       [ "perSegTree", "d8/d28/classrange__queries_1_1per_seg_tree.html", "d8/d28/classrange__queries_1_1per_seg_tree" ]
     ] ],
     [ "search", "d9/dca/namespacesearch.html", [
@@ -173,8 +176,8 @@ var annotated_dup =
     [ "binary_search_tree", "d9/dde/classbinary__search__tree.html", "d9/dde/classbinary__search__tree" ],
     [ "Btree", "d9/d90/struct_btree.html", null ],
     [ "cll", "d5/d15/classcll.html", null ],
-    [ "Compare", "de/d4a/class_compare.html", "de/d4a/class_compare" ],
     [ "compare", "d1/db3/structcompare.html", null ],
+    [ "Compare", "de/d4a/class_compare.html", "de/d4a/class_compare" ],
     [ "Complex", "da/d5a/class_complex.html", "da/d5a/class_complex" ],
     [ "CycleCheck", "d3/dbb/class_cycle_check.html", "d3/dbb/class_cycle_check" ],
     [ "double_linked_list", "d9/dee/classdouble__linked__list.html", null ],
@@ -182,7 +185,6 @@ var annotated_dup =
     [ "EasterYearMonthDay", "d1/df6/class_easter_year_month_day.html", "d1/df6/class_easter_year_month_day" ],
     [ "Edge", "d7/d77/class_edge.html", "d7/d77/class_edge" ],
     [ "FCFS", "dd/dca/class_f_c_f_s.html", "dd/dca/class_f_c_f_s" ],
-    [ "FenwickTree", "dd/d91/class_fenwick_tree.html", "dd/d91/class_fenwick_tree" ],
     [ "Graph", "da/d9a/class_graph.html", "da/d9a/class_graph" ],
     [ "hash_chain", "dd/d1c/classhash__chain.html", "dd/d1c/classhash__chain" ],
     [ "Item", "db/d66/struct_item.html", null ],
@@ -193,8 +195,8 @@ var annotated_dup =
     [ "MinHeap", "d2/d05/class_min_heap.html", "d2/d05/class_min_heap" ],
     [ "MinHeapNode", "d5/d29/struct_min_heap_node.html", null ],
     [ "mst", "d1/d77/structmst.html", null ],
-    [ "node", "d5/da1/structnode.html", null ],
     [ "Node", "db/d8b/struct_node.html", null ],
+    [ "node", "d5/da1/structnode.html", null ],
     [ "Point", "d8/dc8/struct_point.html", "d8/dc8/struct_point" ],
     [ "query", "dd/d1b/structquery.html", null ],
     [ "Queue", "dc/db5/struct_queue.html", null ],
