@@ -24,7 +24,7 @@
 */
 var NAVTREE =
 [
-  [ "Algorithms_in_C++", "index.html", [
+  [ "TheAlgorithms/C++", "index.html", [
     [ "The Algorithms - C++", "index.html", "index" ],
     [ "Contributor Covenant Code of Conduct", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html", [
       [ "Our Pledge", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md5", null ],
@@ -103,7 +103,7 @@ var NAVTREE =
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
         [ "All", "namespacemembers.html", "namespacemembers_dup" ],
-        [ "Functions", "namespacemembers_func.html", null ],
+        [ "Functions", "namespacemembers_func.html", "namespacemembers_func" ],
         [ "Variables", "namespacemembers_vars.html", null ],
         [ "Typedefs", "namespacemembers_type.html", null ]
       ] ]
@@ -137,20 +137,20 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"cpp/iterator/distance.html",
-"cpp/thread/lock.html",
-"d1/d83/classuint256__t.html#aa4cf08fa6a33f17594b5a842866f39a1",
-"d2/dc8/classdata__structures_1_1_stack.html#ac46842bdd9c655d84f865fa3a03da19b",
-"d4/d4f/stooge__sort_8cpp.html#a0283886819c7c140a023582b7269e2d0",
-"d5/d8a/trie__using__hashmap_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
-"d6/d7a/golden__search__extrema_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0",
-"d8/d28/classrange__queries_1_1per_seg_tree.html#ae8ae4b1835e5e8aec32f68c5059ed4d4",
-"d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node.html#ab13a4dd92d54c11eca86edde3ef32256",
-"da/d39/volume_8cpp.html#a3fdc74c24697ec5bb5c3698c96117c12",
-"db/d9a/classuint128__t.html#a07945fe010079a35e18812636d5c70c3",
-"dc/de1/recursive__tree__traversal_8cpp.html#a483bb8ccf42aaf7375a83e91490eda1e",
-"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html",
-"df/d8e/namespacetrie__operations.html"
+"d1/d83/classuint256__t.html#acac9901ab133caa57d058a377d873bf6",
+"d2/dc8/classdata__structures_1_1_stack.html#a2ac469fcc2229d273450e429139d90e6",
+"d4/d13/namespacebidirectional__dijkstra.html",
+"d5/d45/sublist__search_8cpp.html#a70ca8d0267008e09cfa50b4e2ddfbe53",
+"d6/d26/classciphers_1_1_hill_cipher.html#a405b0a28d66a61239d3565d5256f9cb5",
+"d7/d24/nqueen__print__all__solutions_8cpp_source.html",
+"d8/d76/morse__code_8cpp.html#aa8dca7b867074164d5f45b0f3851269d",
+"d9/d12/classothers_1_1iterative__tree__traversals_1_1_binary_tree.html#a3078a5ccf45d6a7031dcf46e43de65b6",
+"da/d18/quadratic__equations__complex__numbers_8cpp.html#aacb1411ef2029e81f249c21e17c96fdb",
+"db/d19/structlinear__probing_1_1_entry.html#a4d84e90b73022083761f85f8586c4c2a",
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a42535e20e97d85aa61271e0894cc0359",
+"dd/d47/namespacemath.html#a3d1e4db743b189f309327572663415f3",
+"de/d85/decimal__to__roman__numeral_8cpp.html#a003fb4e1b08279fe4cd50fbbc2782c2d",
+"df/dce/namespacegraph.html#a0e30e0dca68cb6e4f671440819b35b6a"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
